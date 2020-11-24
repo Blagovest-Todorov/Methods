@@ -31,7 +31,7 @@ namespace _02.usingMethods
             Console.WriteLine("Maximal  number :{0}", max);
         }
 
-        static void MakeNumberPositive(int number)
+        static void MakeNumberPositive(ref int number) //ref--refers to an addres-pointer into the momory
         {
             if (number < 0)
             {
@@ -41,23 +41,12 @@ namespace _02.usingMethods
             }
             Console.WriteLine(number);
         }
-        static void ChangeFirstElement(int[] arr)
-        {
-            arr[0] = 42;
-        }
-
 
         static void Main()
         {
             int n = -5;
-            MakeNumberPositive(n);
-            Console.WriteLine(n);
+            MakeNumberPositive(ref n); ///we privide n by reference  then the change of the value in n will be made
 
-            int[] array = new int[] { 1, 2, 3 };
-
-            Console.WriteLine(array[0]);
-            ChangeFirstElement(array);
-            Console.WriteLine(array[0]);
         }
 
     }
