@@ -43,7 +43,7 @@ namespace _02.usingMethods
         }
         static void ChangeArray(int[] arr)
         {
-            arr = new int[] { 42, 69, 108 }
+            arr = new int[] { 42, 69, 108 }; //bug fixed- i was forgotten in to write the ";"
         }
 
 
@@ -52,7 +52,7 @@ namespace _02.usingMethods
             int[] arr = new int[] { 1, 2, 3 };
             foreach  (int item in arr)
             {
-                Console.WriteLine(arr(item));
+                Console.WriteLine(item));//here element printing is console.writeLine(item) not console.WriteLine(arr[item])
             }
             ChangeArray(arr);
         }
