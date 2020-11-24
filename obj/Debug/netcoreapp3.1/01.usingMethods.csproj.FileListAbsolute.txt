@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\Methods\01.usingMethods\bin\Debug\netcoreapp3.1\01.usingMethods.exe
+C:\Users\Bla\source\repos\Methods\01.usingMethods\bin\Debug\netcoreapp3.1\01.usingMethods.deps.json
+C:\Users\Bla\source\repos\Methods\01.usingMethods\bin\Debug\netcoreapp3.1\01.usingMethods.runtimeconfig.json
+C:\Users\Bla\source\repos\Methods\01.usingMethods\bin\Debug\netcoreapp3.1\01.usingMethods.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\Methods\01.usingMethods\bin\Debug\netcoreapp3.1\01.usingMethods.dll
+C:\Users\Bla\source\repos\Methods\01.usingMethods\bin\Debug\netcoreapp3.1\01.usingMethods.pdb
+C:\Users\Bla\source\repos\Methods\01.usingMethods\obj\Debug\netcoreapp3.1\01.usingMethods.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\Methods\01.usingMethods\obj\Debug\netcoreapp3.1\01.usingMethods.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\Methods\01.usingMethods\obj\Debug\netcoreapp3.1\01.usingMethods.AssemblyInfo.cs
+C:\Users\Bla\source\repos\Methods\01.usingMethods\obj\Debug\netcoreapp3.1\01.usingMethods.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\Methods\01.usingMethods\obj\Debug\netcoreapp3.1\01.usingMethods.dll
+C:\Users\Bla\source\repos\Methods\01.usingMethods\obj\Debug\netcoreapp3.1\01.usingMethods.pdb
+C:\Users\Bla\source\repos\Methods\01.usingMethods\obj\Debug\netcoreapp3.1\01.usingMethods.genruntimeconfig.cache
