@@ -55,6 +55,10 @@ namespace _02.usingMethods
                 Console.WriteLine(item));//here element printing is console.writeLine(item) not console.WriteLine(arr[item])
             }
             ChangeArray(arr);
+            foreach (int num in arr)
+            {
+                Console.WriteLine(num);
+            }
         }
 
     }
